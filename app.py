@@ -118,5 +118,3 @@ if st.button("🔍 Prediksi Sekarang", width="stretch", type="primary"):
         st.dataframe(input_data, use_container_width=True)
 
 # ── Footer ───────────────────────────────────────────────────
-st.divider()
-st.caption("M. Nabil Yudhistira — 23.12.2960 | Universitas AMIKOM Yogyakarta 2026")
